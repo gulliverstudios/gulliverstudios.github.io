@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://gulliverstudios.com/index.html</loc>
+    <lastmod>2019-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gulliverstudios.com/about.html</loc>
+    <lastmod>2019-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gulliverstudios.com/images/pasted-svg-1358.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gulliverstudios.com/career.html</loc>
+    <lastmod>2019-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gulliverstudios.com/images/pasted-svg-1358.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gulliverstudios.com/contact.html</loc>
+    <lastmod>2019-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gulliverstudios.com/images/pasted-svg-1358.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gulliverstudios.com/form.html</loc>
+    <lastmod>2019-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gulliverstudios.com/images/pasted-svg-1455.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
